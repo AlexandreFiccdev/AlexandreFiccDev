@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Alexandre Ficc
+# 👋 Olá, eu sou o Alexandre Marcos
 
 🚀 Desenvolvedor Full-Stack | JavaScript ·  TypeScript · Python · Java 
 🎨 UX/UI Designer | Figma · Adobe Photoshop · Adobe Illustrator
@@ -50,4 +50,4 @@ Sou Desenvolvedor Full-stack e Designer UX/UI, formado em Engenharia de Software
 
 ---
 
-<sub>Feito com carinho, Alexandre Ficc.</sub>
+<sub>Feito com carinho, Alexandre Marcos.</sub>
