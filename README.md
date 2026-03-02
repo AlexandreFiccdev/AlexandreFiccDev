@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou o Alexandre Marcos
 
-🚀 Desenvolvedor Full-Stack |
-🎨 UX/UI Designer
-
-
 Sou Desenvolvedor Full-stack e Designer UX/UI, formado em Engenharia de Software pela UFMS, com experiência em aplicações web completas — do design de interfaces à implementação de APIs e bancos de dados. Atuação focada em usabilidade, performance e soluções escaláveis.
 
 ---
