@@ -44,6 +44,3 @@ Sou Desenvolvedor Full-stack e Designer UX/UI, formado em Engenharia de Software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre%20Ficc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-ficc/)
 
----
-
-<sub>Feito com carinho, Alexandre Marcos.</sub>
